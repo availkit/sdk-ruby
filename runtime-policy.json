@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "supported": "Ruby 3.3, 3.4 and 4.0",
+  "tested": [
+    "4.0.9"
+  ],
+  "dependencies": "standard library only",
+  "authority": "trusted backend workspace; separate public page capability client; no native account/passkey APIs",
+  "releaseEvidence": "https://github.com/availkit/sdk-ruby/releases/tag/v0.1.1",
+  "verificationScope": "Supported runtimes are compatibility targets. Listed tested toolchains describe finite native checks; installed-consumer, service, mobile and distribution evidence is recorded separately in dated release notes. Source presence does not establish registry availability."
+}
