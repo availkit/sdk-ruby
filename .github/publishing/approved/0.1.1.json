@@ -1,0 +1,9 @@
+{
+  "ecosystem": "ruby",
+  "manifest_sha256": "a946a54eac60615cf6fd7c9311632a39c479b16a7810117c59839753d8881ece",
+  "package": "availkit",
+  "schema": 1,
+  "source_commit": "42d832984b28d9f9cfd70cd96c239b84540eece8",
+  "tag": "v0.1.1",
+  "version": "0.1.1"
+}
